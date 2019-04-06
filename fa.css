@@ -1,0 +1,31 @@
+
+*{
+	margin: 	0;
+	padding: 	0;
+}
+table{
+	height: 100px;
+}
+input	{
+	/*border:0px;*/
+	border: 2px solid red;
+	border-color: black;
+}
+
+
+ #Date	{
+	/*border:0px;*/
+	margin-left: 10%;
+	
+}
+#entry2{
+	float: right;
+}
+#credit{
+	float: right;
+	margin-top: 22px;
+	}
+#debit{
+
+	margin-bottom:  38px;
+	}
